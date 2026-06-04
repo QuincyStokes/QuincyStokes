@@ -7,7 +7,7 @@ In June 2026 I shipped my first game, **GEODE**, solo to Steam.
 
 ### GEODE — solo-shipped co-op survival + tower defense
 A real-time multiplayer game (up to 12 players) built in Unity and C#. Took it from concept to public launch on my own, 100% positive player rating.
-**[Play it on Steam](https://store.steampowered.com/)** · [Details & architecture writeup](https://github.com/QuincyStokes/GEODE) *(full source available on request)*
+**[Play it on Steam](https://store.steampowered.com/app/4213520/GEODE/)** · [Details & architecture writeup](https://github.com/QuincyStokes/GEODE)
 
 > Engineering highlights: peer-to-peer networking with Unity Netcode for GameObjects and client state sync · architecture rebuilt around SOLID/OOP for scalability · profiled and optimized with the Unity Profiler.
 
